@@ -1,0 +1,15 @@
+{
+  "aspect_ratio": "9:16",
+  "width": 1080,
+  "height": 1920,
+  "voice": "en-US-AndrewNeural",
+  "pitch": "-30Hz",
+  "rate": "+0%",
+  "subtitle_font": "Impact",
+  "subtitle_font_size": 70,
+  "subtitle_color": [255, 255, 0],
+  "subtitle_outline_color": [0, 0, 0],
+  "subtitle_outline_width": 6,
+  "subtitles_y_position": 0.7,
+  "pexels_api_key": ""
+}
